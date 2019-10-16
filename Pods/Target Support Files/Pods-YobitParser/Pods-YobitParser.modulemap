@@ -1,0 +1,6 @@
+framework module Pods_YobitParser {
+  umbrella header "Pods-YobitParser-umbrella.h"
+
+  export *
+  module * { export * }
+}
